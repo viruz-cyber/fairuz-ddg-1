@@ -1,0 +1,11 @@
+/* Mengatur font pada seluruh halaman */
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Gaya untuk elemen dengan class "highlight" */
+.highlight {
+    background: #f0f0f0;
+    border-radius: 8px;
+    padding: 10px;
+}
